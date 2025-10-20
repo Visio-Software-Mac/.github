@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/12657394/8epvcfWxrioBoGHvin8QMz6lVDQQ.png" width="1080"/>
+  <img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/12657394/8epvcfWxrioBoGHvin8QMz6lVDQQ.png" width="600"/>
 </div>  
 <br>
 
